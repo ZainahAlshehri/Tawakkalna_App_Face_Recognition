@@ -1,9 +1,5 @@
 # Tawakkalna App Face Recognition
-<p align="center">
-<img src="https://github.com/ZainahAlshehri/Movies_Streaming_Platforms_EDA/blob/main/Proposal%20image.png" width="400" height="300" />
-  </p>
-  
-  ![Screenshot 2022-01-20 002234](https://user-images.githubusercontent.com/93244403/150216003-7ed49ee6-ba67-4e41-9692-1928808e2a84.png)
+![Screenshot 2022-01-20 002234](https://user-images.githubusercontent.com/93244403/150216003-7ed49ee6-ba67-4e41-9692-1928808e2a84.png)
   
 ### Objective:
 Tawakkalna App was developed by the Saudi Data and Artificial Intelligence Authority (SDAIA) to assist the government in combating Covid-19. In total, Tawakkalna App offers 44 services to Saudi government ministries such as the Ministry of Health, Hajj, and Umra.
